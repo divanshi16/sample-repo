@@ -1,0 +1,30 @@
+
+
+
+body {
+  background-color: #000;
+  padding: 200px;
+}
+
+.parent {
+  background-color: #E966A0;
+  width: 700px;
+  height: 250px;
+  display: flex;
+  grid: 2px;
+  flex-wrap: wrap;
+  align-items:center;
+
+}
+
+.child {
+  background-color: #6554AF;
+  width: 100px;
+  height:200px;
+}
+
+.child2{
+  background-color: #9575DE;
+  width: 200px;
+  height:250px;
+}
